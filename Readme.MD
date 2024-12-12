@@ -1,0 +1,1 @@
+## this is just a repository which has important concepts of coding that's  required for Data Scientist.
